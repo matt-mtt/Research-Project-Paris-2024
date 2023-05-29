@@ -1,7 +1,5 @@
 # Lisez moi
 
-Ce fichier contient une description brève des fichiers utilisés pour la prédiction de points clés de nageurs dans le dossier **Swimmers skeleton reconstitution**. Pour plus d'informations sur les méthodes utilisées, paramètres et processus, merci de lire mon rapport de stage. 
-Jordan 
 
 # Dossiers
 ## 12_labels
